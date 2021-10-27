@@ -14,7 +14,7 @@ CCTV12,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index
 CCTV13,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-CCTV16,http://113.142.75.96/tc.cdn.hunancatv.com/live/CCTV16HD.m3u8
+CCTV16,http://223.110.241.137:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/1.m3u8
 CCTV16 4k,http://ccav.smymi.com:4000/rtp/239.93.42.54:514
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 兵器科技,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
@@ -66,8 +66,8 @@ CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index
 广西卫视,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
 延边卫视,http://183.207.248.107/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
 新疆卫视,http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226059/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226108/index.m3u8
+河北卫视,http://223.110.241.137:6610/gitv/live1/G_HEBEI-CQ/G_HEBEI-CQ/1.m3u8
+河南卫视,http://223.110.241.137:6610/gitv/live1/G_HENAN-CQ/G_HENAN-CQ/1.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226102/index.m3u8
 甘肃卫视HD,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 甘肃卫视,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
