@@ -15,7 +15,6 @@ CCTV13,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV16,http://223.110.241.137:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/1.m3u8
-CCTV16 4k,http://ccav.smymi.com:4000/rtp/239.93.42.54:514
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 兵器科技,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
