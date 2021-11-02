@@ -3,7 +3,6 @@ CCTV2,http://183.207.248.133/ott.js.chinamobile.com/PLTV/3/224/3221227543/index.
 CCTV3,http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8
 CCTV4,http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
 CCTV5,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
-CCTV5+,http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8
 CCTV6,http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227505/index.m3u8
 CCTV7,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
 CCTV8,http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227473/index.m3u8
@@ -16,6 +15,10 @@ CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV16,http://223.110.241.137:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/1.m3u8
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+CCTV5+,http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 兵器科技,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 电视指南,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
@@ -35,9 +38,6 @@ CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index
 4K花园生活,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园影视,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 东方卫视,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
 北京卫视,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227508/index.m3u8
@@ -152,5 +152,4 @@ CGTN纪录,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/i
 江苏荔枝优选,http://183.207.249.172/ott.js.chinamobile.com/PLTV/3/224/3221227777/index.m3u8
 安徽家家购物,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227636/index.m3u8
 央广购物,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227532/index.m3u8
-风尚购物,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 好享购物,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
