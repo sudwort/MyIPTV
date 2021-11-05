@@ -36,9 +36,6 @@ CCTV5+,http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 咪咕4K,http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8
 欢笑剧场,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-4K花园生活,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
-4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-4K花园影视,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 东方卫视,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
 北京卫视,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227508/index.m3u8
